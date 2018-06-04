@@ -1,3 +1,5 @@
+/*add by lupin*/
+
 public class exp {
 	public static String cmd = "$n$";
 	static {
